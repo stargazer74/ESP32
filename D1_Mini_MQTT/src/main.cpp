@@ -10,8 +10,8 @@
 RTC_DATA_ATTR int bootCount = 0; /* boot count not deleted on deep sleep */
 
 // WiFi Credentials
-const char *ssid = "Smarthome";
-const char *password = "12345678910";
+const char *ssid = "####";
+const char *password = "####";
 
 // MQTT settings
 const char *mqttServer = "docker-runner.privat";
