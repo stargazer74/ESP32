@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D1_Mini_Deep_Sleep"
+		},
+		{
+			"name": "D1_Mini_MQTT",
+			"path": "D1_Mini_MQTT"
+		}
+	],
+	"settings": {}
+}
